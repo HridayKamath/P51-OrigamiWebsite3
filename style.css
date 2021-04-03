@@ -1,0 +1,67 @@
+h1{
+    color: red;
+    font-family: showcard gothic;
+    border: solid;
+    border-color:brown;
+    background-color: yellow;
+  }
+   /*  P{
+       border: solid;
+       border-color: rgb(218, 91, 91);
+      font-size: 5mm;
+       text-decoration-style: bold;
+   }
+       */
+
+   IMG{
+       height: 200px;
+       width:  200px;
+       border: dashed;
+       border-color: black;
+   }
+   .a{
+    color: blue;
+    border: solid;
+    border-color: green;
+    border-width: 1mm;
+    font-size: 25px;
+    padding: 0.02px;
+    margin: 2px;
+   }
+   .grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*margin: 80px;
+    padding: 10px;*/
+}
+.grid img{
+    border: 2px dashed black;
+    border-radius: 50px;
+}
+.origami {
+    
+    border-radius: 20px;
+    background-color: white;
+    width:310px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:30px;
+    margin: 20px;
+    
+    
+    
+}
+.intro{
+    font-size: 20px;
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+.socialMedia img{
+    border : none;
+    padding: 20px;
+}
+body{
+    
+    background-color: rgb(230, 209, 182);
+}
